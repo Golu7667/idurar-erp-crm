@@ -23,7 +23,7 @@ const About = () => {
           <Button
             type="primary"
             onClick={() => {
-              window.open(`https://www.idurarapp.com/contact-us/`);
+              window.open(`https://www.idurarapp.com/`);
             }}
           >
             {translate('Contact us')}
